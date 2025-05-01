@@ -1,5 +1,7 @@
 # DCGAN for Face Generation using CELEBA Dataset
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 ## Introduction
 This project implements a Deep Convolutional Generative Adversarial Network (DCGAN) to generate realistic face images using the CELEBA dataset. The model consists of a generator and a discriminator trained using PyTorch.
 
